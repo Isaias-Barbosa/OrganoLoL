@@ -6,7 +6,6 @@ const Banner = () =>{
         <header className="banner">
         <img src="/imagens/league-of-legends.jpg" alt="Banner Principal"/>
         </header>
-        
     )
 
     }
